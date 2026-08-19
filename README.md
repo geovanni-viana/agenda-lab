@@ -1,6 +1,6 @@
-# Agenda Lab Laboratório de Informática Magnante
+# Agenda Laboratório de Informática Magnante
 
-PWA para agendamento de aulas no laboratório de informática. Professores cadastram reservas extras (professor, disciplina, turma, data e horário) nos horários livres, e a grade fixa semanal (manhã e tarde) fica sempre travada automaticamente.
+PWA para agendamento de aulas no laboratório de informática. Professores cadastram reservas extras (professor, disciplina, turma, data e horário) nos horários livres, e a grade semanal (manhã e tarde) fica sempre fixa automaticamente.
 
 ## Funcionalidades
 
